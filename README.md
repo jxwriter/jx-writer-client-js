@@ -1,1 +1,1 @@
-# jx-writer-client-js
+# JX Writer / Javascript SDK.
