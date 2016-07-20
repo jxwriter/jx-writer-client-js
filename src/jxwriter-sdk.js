@@ -8,7 +8,7 @@ JX.log = function(message, object){
 JX.Server = function(){
 
 	//prod conf
-	this.baseUrl = "http://jxwriter.org/"; //soon : "http://api.jxwriter.org/";
+	this.baseUrl = "http://admin.jxwriter.org/"; //soon : "http://api.jxwriter.org/";
 	this.redirectMessage = "Etes vous sûr de vouloir aller sur ?";
 
 	//personnal dev conf
